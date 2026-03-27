@@ -1,0 +1,38 @@
+[
+  {
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "anio": 2022,
+    "problema": "Falla de carga",
+    "categoria": "Carga",
+    "gravedad": "Media",
+    "reportes": 12
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Leaf",
+    "anio": 2021,
+    "problema": "Degradación de batería",
+    "categoria": "Batería",
+    "gravedad": "Alta",
+    "reportes": 8
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Bolt EV",
+    "anio": 2020,
+    "problema": "Riesgo de incendio",
+    "categoria": "Seguridad",
+    "gravedad": "Alta",
+    "reportes": 5
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Kona Electric",
+    "anio": 2021,
+    "problema": "Sobrecalentamiento de batería",
+    "categoria": "Batería",
+    "gravedad": "Alta",
+    "reportes": 6
+  }
+]
