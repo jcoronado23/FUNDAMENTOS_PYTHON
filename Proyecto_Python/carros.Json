@@ -36,3 +36,24 @@
     "reportes": 6
   }
 ]
+
+print("Datos de problemas comunes en vehículos eléctricos:")
+print("opción 2")
+[
+  {
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "año": 2022,
+    "problema": "bateria",
+    "reportes": 15,
+    "pais": "USA"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Leaf",
+    "año": 2020,
+    "problema": "software",
+    "reportes": 8,
+    "pais": "Canada"
+  }
+]
